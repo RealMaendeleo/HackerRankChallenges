@@ -1,9 +1,9 @@
-package DataStructures;
+package DataStructures.List;
 
 import java.util.*;
 import java.util.ArrayList;
 
-public class Lists {
+public class Solution {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
         Scanner sc = new Scanner(System.in);

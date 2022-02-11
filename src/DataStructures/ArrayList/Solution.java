@@ -1,8 +1,8 @@
-package DataStructures;
+package DataStructures.ArrayList;
 
 import java.util.*;
 
-public class ArrayList {
+public class Solution {
 
     public static void main(String[] args) {
         List<List<Integer>> matrix = new java.util.ArrayList<>();
