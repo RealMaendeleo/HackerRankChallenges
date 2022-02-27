@@ -1,12 +1,12 @@
 package DataStructures.Map;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.TreeMap;
 
 public class Solution {
     public static void main(String[] args) {
-        Map<String, Integer> map = new HashMap<>();
+        Map<String, Integer> map = new TreeMap<>();
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         in.nextLine();
